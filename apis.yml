@@ -1,4 +1,16 @@
 aid: humble-bundle
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/humble-bundle.png
 name: Humble Bundle
 description: "Humble Bundle's current bundles"
 url: https://rapidapi.com/Ziggoto/api/humble-bundle
